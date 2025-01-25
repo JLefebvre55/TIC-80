@@ -1,0 +1,1 @@
+./build/bin/tic80 --scale=2 --fs="./files/"
